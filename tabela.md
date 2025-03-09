@@ -3,73 +3,73 @@ layout: page
 ---
 # 1. Lech Poznań
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](lech_poznan)
+  * [Wyniki z duckduckgo]({{ '/tabela/lech_poznan' | relative_url }})
 
 # 2. Raków Częstochowa
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](rakow_czestochowa)
+  * [Wyniki z duckduckgo]({{ '/tabela/rakow_czestochowa' | relative_url }})
 
 # 3. Jagiellonia Białystok
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](jagiellonia_bialystok)
+  * [Wyniki z duckduckgo]({{ '/tabela/jagiellonia_bialystok' | relative_url }})
 
-# 4. Legia Warszawa
+# 4. Pogoń Szczecin
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](legia_warszawa)
+  * [Wyniki z duckduckgo]({{ '/tabela/pogon_szczecin' | relative_url }})
 
-# 5. Pogoń Szczecin
+# 5. Legia Warszawa
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](pogon_szczecin)
+  * [Wyniki z duckduckgo]({{ '/tabela/legia_warszawa' | relative_url }})
 
 # 6. Cracovia
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](cracovia)
+  * [Wyniki z duckduckgo]({{ '/tabela/cracovia' | relative_url }})
 
-# 7. Motor Lublin
+# 7. Górnik Zabrze
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](motor_lublin)
+  * [Wyniki z duckduckgo]({{ '/tabela/gornik_zabrze' | relative_url }})
 
-# 8. Górnik Zabrze
+# 8. Motor Lublin
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](gornik_zabrze)
+  * [Wyniki z duckduckgo]({{ '/tabela/motor_lublin' | relative_url }})
 
-# 9. Piast Gliwice
+# 9. GKS Katowice
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](piast_gliwice)
+  * [Wyniki z duckduckgo]({{ '/tabela/gks_katowice' | relative_url }})
 
-# 10. GKS Katowice
+# 10. Piast Gliwice
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](gks_katowice)
+  * [Wyniki z duckduckgo]({{ '/tabela/piast_gliwice' | relative_url }})
 
 # 11. Korona Kielce
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](korona_kielce)
+  * [Wyniki z duckduckgo]({{ '/tabela/korona_kielce' | relative_url }})
 
-# 12. Widzew Łódź
+# 12. Radomiak Radom
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](widzew_lodz)
+  * [Wyniki z duckduckgo]({{ '/tabela/radomiak_radom' | relative_url }})
 
-# 13. Radomiak Radom
+# 13. Widzew Łódź
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](radomiak_radom)
+  * [Wyniki z duckduckgo]({{ '/tabela/widzew_lodz' | relative_url }})
 
 # 14. Stal Mielec
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](stal_mielec)
+  * [Wyniki z duckduckgo]({{ '/tabela/stal_mielec' | relative_url }})
 
 # 15. Zagłębie Lubin
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](zaglebie_lubin)
+  * [Wyniki z duckduckgo]({{ '/tabela/zaglebie_lubin' | relative_url }})
 
 # 16. Puszcza Niepołomice
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](puszcza_niepolomice)
+  * [Wyniki z duckduckgo]({{ '/tabela/puszcza_niepolomice' | relative_url }})
 
 # 17. Lechia Gdańsk
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](lechia_gdansk)
+  * [Wyniki z duckduckgo]({{ '/tabela/lechia_gdansk' | relative_url }})
 
 # 18. Śląsk Wrocław
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)
-  * [Wyniki z duckduckgo](slask_wroclaw)
+  * [Wyniki z duckduckgo]({{ '/tabela/slask_wroclaw' | relative_url }})
 
