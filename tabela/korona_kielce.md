@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Korona Kielce - wyniki z DuckDuckGo
 ---
 # Korona Kielce - informacje.
-  * Nadzwyczajna sesja rady miasta w sprawie sprzedaży Korony Kielce odbędzie się w czwartek (6 marca). Początek obrad o godz. 14.00. Jak informowaliśmy, pierwotnie władze miasta chciały zbyć udziały w klubie piłkarskim grupie anonimowych inwestorów zrzeszonych w spółce Korona Managment, której twarzą jest Mariusz Siewierski., [cały artykuł](https://radiokielce.pl/1275707/przyszlosc-korony-kielce-rozstrzygnie-sie-w-tym-tygodniu/).
-  * Korona Kielce przegrała z Ruchem Chorzów na Stadionie Śląskim 0:2. Obie bramki dla gospodarzy..., [cały artykuł](https://www.korona-kielce.pl/aktualnosci).
-  * Jeszcze w środę 26 lutego w grze o 99 procent akcji Korony Kielce byli dwaj inwestorzy: Mariusz Siewierski, który stanął na czele nowo utworzonej spółki Korona Management oraz wspomniany na wstępie Łukasz Maciejczyk. Tego dnia obaj, razem ze swoimi współpracownikami, spotkali się z władzami i radnymi Kielc, aby porozmawiać o ..., [cały artykuł](https://kielce.eska.pl/przelom-w-sprawie-korony-kielce-ten-inwestor-ma-byc-nowym-wlascicielem-decydujaca-pilka-po-stronie-radnych-aa-K3hC-MGZV-JrBV.html).
+  * 🎙️ Konferencja prasowa po meczu Korona Kielce - Puszcza Niepołomice [NA ŻYWO] 🔴, [Cały artykuł](https://www.korona-kielce.pl/).
+  * OFICJALNIE: Łukasz Maciejczyk właścicielem Korony Kielce! Rozpoczynamy nowy rozdział w Koronie S.A. 7 marca 2025 roku zapiszę się na kartach historii... 07.03.2025, [Cały artykuł](https://www.korona-kielce.pl/aktualnosci).
+  * Decyzja o sprzedaży Korony Kielce zapadła po licznych rozmowach z zainteresowanymi stronami. Jeszcze na początku lutego chęć zakupu klubu wyraził Mariusz Siewierski, właściciel spółki Korona Management, były menedżer Roberta Lewandowskiego. Nie ujawnił jednak swoich wspólników, co wzbudziło wątpliwości radnych i kibiców., [Cały artykuł](https://sport.fakt.pl/pilka-nozna/korona-kielce-ma-nowego-wlasciciela-decyzja-radnych-szansa-jakiej-nie-mielismy/29yng1e).

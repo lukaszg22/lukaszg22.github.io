@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Pogoń Szczecin - wyniki z DuckDuckGo
 ---
 # Pogoń Szczecin - informacje.
-  * Pogoń Szczecin - polski klub piłkarski z siedzibą w Szczecinie występujący w Ekstraklasie, dwukrotny wicemistrz Polski, czterokrotny finalista Pucharu Polski. Klub zajmuje 7. miejsce w tabeli wszech czasów ekstraklasy., [cały artykuł](https://pl.wikipedia.org/wiki/Pogoń_Szczecin).
-  * Pogoń Szczecin - sytuacja tak zła, na jaką wygląda. Podpytując o sytuację w Pogoni Szczecin da się usłyszeć jedno kluczowe zdanie - sytuacja jest dokładnie tak zła, na jaką wygląda. Portal wSzczecinie.pl opublikował właśnie tekst, który pachnie nieco apokaliptycznie., [cały artykuł](https://www.goal.pl/ekstraklasa/pogon-szczecin-co-dalej/).
-  * W skrócie: 14 lutego EPA S.A. - posiadająca 85 procent akcji Pogoni Szczecin - sprzedała swój pakiet spółce Sport Strategy and Investments z Londynu. Jednocześnie prawnik Nilo Effori ..., [cały artykuł](https://gs24.pl/trwa-zamieszanie-z-glownym-inwestorem-w-pogoni-szczecin-epa-odzyska-akcje/ar/c2-19080764).
+  * Pogoń Szczecin - polski klub piłkarski z siedzibą w Szczecinie występujący w Ekstraklasie, dwukrotny wicemistrz Polski, czterokrotny finalista Pucharu Polski. Klub zajmuje 7. miejsce w tabeli wszech czasów ekstraklasy., [Cały artykuł](https://pl.wikipedia.org/wiki/Pogoń_Szczecin).
+  * Dwie czołowe akademie piłkarskie na Pomorzu Zachodnim łączą siły! Przedstawiciele Pogoni Szczecin i Bałtyku Koszalin podpisali umowę partnerską, która pozwoli na jeszcze intensywniejszą wymianę wiedzy i zawodników pomiędzy obu klubami., [Cały artykuł](https://pogonszczecin.pl/akademia-aktualnosci).
+  * Pogoń Szczecin podejmuje Lecha Poznań. Start o godz. 17.30. - Kibice pokazali już, że są z tym zespołem, ale... 28 lutego 2025, 19:08 pogoń szczecin lech poznań pogoń lech ..., [Cały artykuł](https://gs24.pl/pogon-szczecin-zagra-o-polfinal-pucharu-polski-z-piastem-gliwice-portowcy-chca-wrocic-do-stolicy/ar/c2-19077552).

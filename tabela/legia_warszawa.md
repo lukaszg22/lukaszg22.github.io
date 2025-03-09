@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Legia Warszawa - wyniki z DuckDuckGo
 ---
 # Legia Warszawa - informacje.
-  * Legia.Net - Legia Warszawa. Serwis nieoficjalny. Mecze Legii, relacje na żywo, historia, terminarz, zdjęcia, wideo, bilety, karnety. Piłka nożna, koszykówka, hokej, sekcje Legii., [cały artykuł](https://legia.net/).
-  * Kibicowski serwis o Legii Warszawa. Codzienne aktualności, relacje LIVE!, zdjęcia, video, historia, piłka nożna, koszykówka, rugby, futsal i wiele innych, [cały artykuł](https://legionisci.com/).
-  * Legia jest świeżo po awansie do półfinału Pucharu Polski, a teraz spróbuje pójść za ciosem. Stołeczna drużyna zmierzy się u siebie z ostatnim w lidze Śląskiem Wrocław, z którym nie przegrała w stolicy od prawie 12 lat. Spotkanie 23. kolejki Ekstraklasy już w niedzielę, 2 marca (godz. 14:45), przy Łazienkowskiej. Transmisja w CANAL+ SPORT 3, CANAL+ ONLINE i CANAL+ 4K ..., [cały artykuł](https://legia.net/news/legia-warszawa-slask-wroclaw-zaczac-gromadzic-punkty-i-zblizac-sie-do-podium/98541).
+  * Legia.Net to portal poświęcony Legii Warszawa, klubowi piłkarski z Ekstraklasy. Znajdziesz tu najnowsze informacje, relacje, komentarze, wywiady, statystyki i terminarz meczów Legii. Sprawdź, jak Legia radzi sobie w Pucharze Polski i Lidze Europy., [Cały artykuł](https://legia.net/).
+  * Portal dla fanów Legii Warszawa, najstarszego klubu piłkarskiego w Polsce. Znajdziesz tu najnowsze informacje o meczach, transferach, kibicach, historii i innych sekcjach Legii., [Cały artykuł](https://legionisci.com/).
+  * Legia Warszawa uległa w Norwegii Molde FK 2:3 w 1/8 finału piłkarskiej Ligi Konferencji. Biorąc pod uwagę, że stołeczny zespół po godzinie przegrywał 3:0, wynik należy uznać za niezły. Przed rewanżem Legia ma bowiem cały czas realne szanse na awans., [Cały artykuł](https://eurosport.tvn24.pl/pilka-nozna/liga-konferencji/2024-2025/molde-fk-legia-warszawa-w-meczu-1-8-finalu-ligi-konferencji-wynik-na-zywo-i-relacja_sto20088040/story.shtml).

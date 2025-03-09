@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Cracovia - wyniki z DuckDuckGo
 ---
 # Cracovia - informacje.
-  * Cracovia po samobójczym trafieniu Rafała Janickiego pokonała na wyjeździe 1:0 Górnika Zabrze, awansując tym samym na 5. miejsce w tabeli PKO BP Ekstraklasy. W Zabrzu, podobnie jak w trakcie niedzielnego mecz z Jagiellonią, z powodu choroby nieobecny był trener Dawid Kroczek, więc przy Roosevelta wciąż w tej roli zastępował go ..., [cały artykuł](https://cracovia.pl/aktualnosci/cracovia/pko-bp-ekstraklasa-pierwsze-zwyciestwo-w-2025-roku/).
-  * Cracovia z pierwszym ligowym zwycięstwem w 2025 roku! Zespół Dawida Kroczka, którego z powodu choroby zastąpił Tomasz Jasik, nie zagrał wielkiego meczu, ale pokonał na trudnym zabrzańskim ..., [cały artykuł](https://www.sport.pl/pilka/7,65039,31732431,cracovia-z-przelamaniem-nawet-nie-musieli-sami-strzelac.html).
-  * Cracovia zremisowała z Jagiellonią Białystok 2:2. Ten remis musi cieszyć "Pasy", bo przegrywały 0;2, ale też i po trosze smucić, bo jest to kolejny podział punktów - już szósty z rzędu., [cały artykuł](https://gazetakrakowska.pl/cracovia-byla-juz-na-deskach-ale-zdolala-sie-podniesc-kapitalny-gol-17-latka-to-fabian-bzdyl-dal-pasom-sygnal-do-ataku/ar/c2p2-27298401).
+  * KS Cracovia SA (błędnie nazywana Cracovią Kraków) - najstarszy obecnie istniejący polski klub sportowy. Klub Sportowy Cracovia Spółka Akcyjna, w ramach którego działa m.in. sekcja piłki nożnej mężczyzn., [Cały artykuł](https://pl.wikipedia.org/wiki/Cracovia_(piłka_nożna)).
+  * Piłkarski wieczór przed nami. Cracovia zmierzy się z Radomiakiem w ramach PKO BP Ekstraklasa. O której początek meczu? Gdzie oglądać transmisję na żywo? Gdzie oglądać mecz Cracovia — Radomiak? O której godzinie jest mecz dzisiaj?, [Cały artykuł](https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/gdzie-obejrzec-cracovia-radomiak-o-ktorej-dzisiaj-mecz-transmisja-na-zywo/13931lm).
+  * Cracovia bowiem, w całym sezonie odniosła tylko trzy zwycięstwa przy ulicy Kałuży (a także 6 remisów i 3 porażki). Radomiak z kolei zaczął wiosnę fatalnie, ale obecnie poprawił wyniki., [Cały artykuł](https://gol24.pl/mecz-cracovia-radomiak-radom-online-gdzie-ogladac-w-telewizji-transmisja-i-stream/rs/c2-6154391359).

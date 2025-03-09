@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Widzew Łódź - wyniki z DuckDuckGo
 ---
 # Widzew Łódź - informacje.
-  * „Daniel Myśliwiec byłby wciąż trenerem Widzewa". Agent o kulisach zmiany trenera zespołu z Łodzi, [cały artykuł](https://www.widzew24.pl/).
-  * Widzew Łódź podjął decyzję ws. nowego trenera po zwolnieniu Daniela Myśliwca. A tak naprawdę podjął decyzję, że na razie tego nowego trenera nie będzie. Jak poinformował Sebastian ..., [cały artykuł](https://www.sport.pl/pilka/7,65039,31737905,widzew-zdecydowal-ws-nowego-trenera-sensacyjne-informacje.html).
-  * Widzew Łódź - polski klub piłkarski z siedzibą w Łodzi, występujący w Ekstraklasie. Kontynuator tradycji sportowych założonego w 1910 roku TMRF Widzew [2]., [cały artykuł](https://pl.wikipedia.org/wiki/Widzew_Łódź_(piłka_nożna)).
+  * Jagiellonia "wraca z Europy". Widzew chce jej sprawić psikusa. Tak oceniają nowego dyrektora Widzewa. "W Łodzi mniejsza presja, niż w Splicie" #WIDJAG: Sprawdź najważniejsze informacje organizacyjne! Dobry początek to połowa sukcesu… (ANALIZA) BEZ HAPPY ENDU. Kulisy meczu Radomiak Radom - Widzew Łódź. Kto z gwizdkiem w niedzielę?, [Cały artykuł](https://www.widzew24.pl/).
+  * Mecz Widzew Łódź - Jagiellonia Białystok zamknie niedzielne zmagania w 24. kolejce PKO Ekstraklasy. Duma Podlasia jest po znakomitym starciu z Cercle Brugge w L, [Cały artykuł](https://gol24.pl/mecz-widzew-lodz-jagiellonia-bialystok-online-duma-podlasia-w-sercu-lodzi-darmowa-transmisja-i-stream-w-internecie/rs/c2-6154391373).
+  * widzew łódź Widzewiacy będą podglądać w akcji piłkarzy Jagiellonii Białystok Przed Patrykiem Czubakiem, tymczasowym trenerem piłkarzy Widzewa, najtrudniejsze zawodowe wyzwanie., [Cały artykuł](https://expressilustrowany.pl/widzew-lodz-jagiellonia-bialystok-relacja-na-zywo-sledz-wynik-meczu-online-trudne-wyzwanie-przed-lodzianami-jaki-bedzie-wynik/ar/c2p2-27347447).

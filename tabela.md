@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Tabela
 ---
 # 1. Lech Poznań
   * [Dodatkowe informacje](http://www.90minut.pl/skarb.php?id_klub=132&id_sezon=105)

@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Stal Mielec - wyniki z DuckDuckGo
 ---
 # Stal Mielec - informacje.
-  * Oficjalna strona FKS Stal Mielec S.A. to miejsce w którym każdy biało-niebieski kibic znajdzie najważniejsze informacje dotyczące naszego klubu., [cały artykuł](https://stalmielec.com/).
-  * Ivan Cavaleiro w Stali Mielec. Tego nikt się nie spodziewał. W miejsce Białorusina Stal pozyskała doświadczonego byłego króla strzelców ligi czeskiej - Francuza Jeana-Davida Beauguela ..., [cały artykuł](https://www.sport.pl/pilka/7,65039,31738241,co-za-transfer-stali-mielec-tego-nikt-sie-nie-spodziewal.html).
-  * Stal Mielec walczy o to, żeby utrzymać się w lidze i potrzebuje wzmocnień z przodu, żeby załatać lukę po sprzedanym do Legii Warszawa Ilji Szkurynie, dlatego podejmuje ryzyko. Z naszych informacji wynika, że Cavaleiro ma podpisać krótką umowę. W Portugalii usłyszeliśmy, że Ivan latem chciałby jeszcze załapać się na duży ..., [cały artykuł](https://weszlo.com/2025/03/03/stal-mielec-ivan-cavaleiro-transfer/).
+  * Znajdź informacje o drużynie, terminarzu, biletach, sklepie i kibicach FKS Stal Mielec S.A. - klubu z Ekstraklasy. Zobacz zdjęcia, wpisy i kontakt z klubem założonym w 1939 roku., [Cały artykuł](https://stalmielec.com/).
+  * Mimo ambitnej walki na trudnym terenie, Stal Mielec przegrała z Lechem Poznań 1:3. Jedynego gola dla "Biało-Niebieskich" zdobył przed przerwą Robert Dadok.Bramka kontaktowa dawała nadzieję ..., [Cały artykuł](https://sportowefakty.wp.pl/pilka-nozna/1176962/stal-mielec-wraca-do-domu-na-tarczy-to-bylo-za-malo-na-lecha-w-takiej-formie).
+  * Lech Poznań w ostatnich dwóch meczach wbił rywalom sześć bramek, a Stal na wiosnę wygrała zaledwie jeden mecz. Mielczanie pokonali w nim jednak Jagiellonię Białystok, więc pokazują, że mają patent na faworytów. Czy mielczanie zdobędą Bułgarską po raz trzeci od powrotu do elity? Zapraszamy na relację z potyczki Lech Poznań — Stal Mielec. Początek 8 marca o godzinie 20:15., [Cały artykuł](https://przegladsportowy.onet.pl/pilka-nozna/lech-poznan-stal-mielec-na-zywo-kolejorz-kroczy-po-swoje/pkt6qvr).

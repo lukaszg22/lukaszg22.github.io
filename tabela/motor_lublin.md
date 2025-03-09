@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Motor Lublin - wyniki z DuckDuckGo
 ---
 # Motor Lublin - informacje.
-  * Motor Lublin w niedzielę pokonał w Niepołomicach Puszczę 1:0. Po zwycięstwie żółto-biało-niebiescy przesunęli się na siódme miejsce w tabeli PKO BP Ekstraklasy., [cały artykuł](https://kurierlubelski.pl/mateusz-stolarski-trener-motoru-druzyny-ktore-chca-wygrywac-nie-moga-narzekac-ale-robic-swoje/ar/c2p2-27325535).
-  * Zapraszamy na relację na żywo z meczu Puszcza Niepołomice - Motor Lublin. Początek spotkania już dzisiaj o godz. 12.15., [cały artykuł](https://www.dziennikwschodni.pl/sport/pilka-nozna/ekstraklasa/puszcza-niepolomice-motor-lublin-relacja-na-zywo,n,1000357922.html).
-  * Znajdź najnowsze informacje o Motorze Lublin, klubie piłkarskim grającym w I lidze. Przeczytaj o nowym sponsorze, planach na rundę wiosenną, wynikach meczów i zapowiedziach., [cały artykuł](https://www.motorlublin.eu/aktualnosci).
+  * Trener Motoru Lublin stanie oko w oko z Goncalo Feio. Przemówił przed meczem. W 24. kolejce piłkarskiej Ekstraklasy Motor podejmie w poniedziałek Legię Goncalo Feio. "Po dwóch wygranych spotkaniach chcemy pokonać zespół z Warszawy, zdobyć kolejne trzy punkty i praktycznie rozstrzygnąć utrzymanie się w Ekstraklasie" — powiedział ..., [Cały artykuł](https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/trener-motoru-lublin-stanie-oko-w-oko-z-goncalo-feio-przemowil-przed-meczem/zscfchx).
+  * Znajdź najnowsze informacje o Motorze Lublin, klubie piłkarskim grającym w I lidze. Przeczytaj o nowym sponsorze, planach na rundę wiosenną, wynikach meczów i zapowiedziach., [Cały artykuł](https://motorlublin.eu/aktualnosci).
+  * Stolarski nie ma wątpliwości, celem Motoru jest wygrana z Legią. Mateusz Stolarski, czyli trener Motoru Lublin na konferencji prasowej przed meczem z Legią Warszawa podkreślał, że napięty terminarz rywali wcale nie sprawia, że jego zespół ma przewagę nad rywalem. Zaznaczył jednak, że liczy na lepszy wynik niż w rundzie jesiennej, gdzie beniaminek Ekstraklasy przegrał w ..., [Cały artykuł](https://www.goal.pl/artykuly/motor-na-fali-dwoch-zwyciestw-do-lublina-przyjezdza-legia/).
