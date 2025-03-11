@@ -13,9 +13,3 @@ title: Lech Poznań - wyniki z DuckDuckGo
 
 # Lech Poznań - stadion
   ![stadion](lech_poznan_stadion.jpg)
-
-# Lech Poznań - herb
-  ![herb](lech_poznan_herb.jpg)
-
-# Lech Poznań - stadion
-  ![stadion](lech_poznan_stadion.jpg)
